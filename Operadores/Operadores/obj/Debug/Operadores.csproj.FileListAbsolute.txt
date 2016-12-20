@@ -1,0 +1,5 @@
+C:\Users\PC\Desktop\C#\Operadores\Operadores\bin\Debug\Operadores.exe.config
+C:\Users\PC\Desktop\C#\Operadores\Operadores\bin\Debug\Operadores.exe
+C:\Users\PC\Desktop\C#\Operadores\Operadores\bin\Debug\Operadores.pdb
+C:\Users\PC\Desktop\C#\Operadores\Operadores\obj\Debug\Operadores.exe
+C:\Users\PC\Desktop\C#\Operadores\Operadores\obj\Debug\Operadores.pdb

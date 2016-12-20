@@ -1,0 +1,5 @@
+C:\Users\PC\Desktop\C#\Pantalla\Pantalla\bin\Debug\Pantalla.exe.config
+C:\Users\PC\Desktop\C#\Pantalla\Pantalla\bin\Debug\Pantalla.exe
+C:\Users\PC\Desktop\C#\Pantalla\Pantalla\bin\Debug\Pantalla.pdb
+C:\Users\PC\Desktop\C#\Pantalla\Pantalla\obj\Debug\Pantalla.exe
+C:\Users\PC\Desktop\C#\Pantalla\Pantalla\obj\Debug\Pantalla.pdb

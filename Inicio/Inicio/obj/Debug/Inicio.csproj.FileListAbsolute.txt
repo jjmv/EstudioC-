@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\C#\Inicio\Inicio\bin\Debug\Inicio.exe.config
+C:\Users\PC\Desktop\C#\Inicio\Inicio\bin\Debug\Inicio.exe
+C:\Users\PC\Desktop\C#\Inicio\Inicio\bin\Debug\Inicio.pdb
+C:\Users\PC\Desktop\C#\Inicio\Inicio\obj\Debug\Inicio.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\C#\Inicio\Inicio\obj\Debug\Inicio.exe
+C:\Users\PC\Desktop\C#\Inicio\Inicio\obj\Debug\Inicio.pdb

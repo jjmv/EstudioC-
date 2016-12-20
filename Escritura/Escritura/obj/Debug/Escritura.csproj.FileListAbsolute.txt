@@ -1,0 +1,5 @@
+C:\Users\PC\Desktop\C#\Escritura\Escritura\bin\Debug\Escritura.exe.config
+C:\Users\PC\Desktop\C#\Escritura\Escritura\bin\Debug\Escritura.exe
+C:\Users\PC\Desktop\C#\Escritura\Escritura\bin\Debug\Escritura.pdb
+C:\Users\PC\Desktop\C#\Escritura\Escritura\obj\Debug\Escritura.exe
+C:\Users\PC\Desktop\C#\Escritura\Escritura\obj\Debug\Escritura.pdb

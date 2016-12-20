@@ -1,0 +1,5 @@
+C:\Users\PC\Desktop\C#\OperadorBool2\OperadorBool2\bin\Debug\OperadorBool2.exe.config
+C:\Users\PC\Desktop\C#\OperadorBool2\OperadorBool2\bin\Debug\OperadorBool2.exe
+C:\Users\PC\Desktop\C#\OperadorBool2\OperadorBool2\bin\Debug\OperadorBool2.pdb
+C:\Users\PC\Desktop\C#\OperadorBool2\OperadorBool2\obj\Debug\OperadorBool2.exe
+C:\Users\PC\Desktop\C#\OperadorBool2\OperadorBool2\obj\Debug\OperadorBool2.pdb
