@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\C#\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\PC\Desktop\C#\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\PC\Desktop\C#\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\PC\Desktop\C#\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\C#\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\PC\Desktop\C#\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
